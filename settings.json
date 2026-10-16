@@ -1,0 +1,14 @@
+{
+    "theme": "dark",
+    "accent_color": "#4F8EF7",
+    "font": "Segoe UI",
+    "font_size": 10,
+    "wallpaper": "",
+    "window_width": 1400,
+    "window_height": 850,
+    "volume": 70,
+    "ai_model": "llama3",
+    "ai_enabled": true,
+    "animations": true,
+    "check_updates": true
+}

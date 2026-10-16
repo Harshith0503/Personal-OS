@@ -1,0 +1,17 @@
+{
+    "name": "Dark",
+
+    "colors": {
+        "background": "#202124",
+        "surface": "#2B2D31",
+        "surface_alt": "#313338",
+        "primary": "#4F8EF7",
+        "secondary": "#7C5CFC",
+        "text": "#FFFFFF",
+        "text_secondary": "#B5BAC1",
+        "border": "#3F4147",
+        "success": "#43B581",
+        "warning": "#FAA61A",
+        "danger": "#ED4245"
+    }
+}
